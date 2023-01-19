@@ -5,12 +5,11 @@ function ComingSoon() {
       <div className="ComingSoon">
         <div className="container">
         <h1>
-          Website
+          FlatMonk
           <br />
           Coming Soon
         </h1>
-        {/* <Timer /> */}
-        {/* <Preloader /> */}
+
       </div>
       </div>
     );
