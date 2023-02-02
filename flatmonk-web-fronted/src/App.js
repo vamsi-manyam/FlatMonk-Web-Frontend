@@ -1,14 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
-import ComingSoon from './pages/ComingSoon';
+import "./App.css";
+import Footer from "./components/common/Footer";
+
+import Header from "./components/common/Header";
+import AppRouter from "./router/AppRouter";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <ComingSoon/>
-      </header>
-    </div>
+    <>
+      <Header />
+      <AppRouter />
+      <Footer />
+    </>
   );
 }
 

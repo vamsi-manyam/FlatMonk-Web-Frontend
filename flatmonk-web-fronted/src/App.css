@@ -1,17 +1,9 @@
-/* .App {
-  text-align: center;
-} */
-
-
-
-
-
 @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap");
 
 body {
   color: rgb(12, 11, 11);
   font-family: "Roboto Condensed", sans-serif;
-  background-image: url(https://images.unsplash.com/photo-1612637968894-660373e23b03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  /* background-image: url(https://images.unsplash.com/photo-1612637968894-660373e23b03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80); */
   background-position: top top;
   background-size: cover;
   margin: 0;
